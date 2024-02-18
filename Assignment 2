@@ -1,7 +1,0 @@
-Assignment 2: Getting Ready for OpenGL Programming
-
-Goals:
-- Create a gl context and a window.
-- Load a 3D model from an obj file
-- Write a function to compute the extent of the model
-- Upload data to the GPU
